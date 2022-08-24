@@ -1,11 +1,11 @@
-site: Sidey
+site: Burak Bakırtaş
 url: #yoururl
 title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+description: Burak Bakırtaş Blog.
 twitter:
-  username: #yourusername
+  username: burakbakirtas
   card: summary
-  creator: #yourusername
+  creator: bbakirtas
 author:
   twitter: #yourusername
   name: #yourusername
